@@ -74,7 +74,7 @@
 
 [![GitHub Repository](https://img.shields.io/badge/HiccOrder-Repository-181717?style=for-the-badge&logo=github)](https://github.com/HiccOrder/HiccOrder-Backend)
 
-## 📚 BillBook
+### BillBook
 
 중고 도서 거래와 커뮤니티 기능을 결합한 도서 거래 플랫폼입니다.
 
