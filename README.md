@@ -31,6 +31,11 @@
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![STOMP](https://img.shields.io/badge/STOMP-000000?style=for-the-badge&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 ### PWA & Deployment
@@ -54,6 +59,20 @@
 
 ## 🚀 Project
 
+### HiccOrder (힉오더)
+
+축제 부스의 주문과 운영 과정을 디지털화한 테이블 오더 및 부스 관리 서비스입니다.
+
+- 부스별 메뉴와 테이블 등록, 수정, 삭제 및 운영 정보 관리 기능 구현
+- QR 링크를 이용한 테이블별 임시 사용자 인증 및 주문 기능 구현
+- 주문 접수, 수량 변경, 취소와 조리 상태 관리 기능 구현
+- 주문 내역을 기반으로 한 테이블별 결제 및 이용 요금 계산 기능 구현
+- WebSocket과 Redis를 활용한 실시간 직원 호출 및 호출 내역 관리 기능 구현
+- Google OAuth와 JWT를 활용한 로그인 및 사용자 인증 기능 구현
+- 이메일 인증을 통한 비밀번호 확인 및 계정 보안 기능 구현
+- AWS S3를 활용한 부스 및 메뉴 이미지 저장 기능 구현
+
+[![GitHub Repository](https://img.shields.io/badge/HiccOrder-Repository-181717?style=for-the-badge&logo=github)](https://github.com/HiccOrder/HiccOrder-Backend)
 
 ## 📚 BillBook
 
@@ -94,9 +113,4 @@
 - Service Worker와 `vite-plugin-pwa`를 적용해 설치 가능한 PWA로 구성 및 배포
 
 [![GitHub Repository](https://img.shields.io/badge/Ganadi-Repository-181717?style=for-the-badge&logo=github)](https://github.com/20260304-KB7-27/Ganadi)
-
-
-
-
-
 
