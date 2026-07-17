@@ -37,6 +37,13 @@
 
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 ![Service Worker](https://img.shields.io/badge/Service_Worker-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logoColor=white)
+
+### API & Cloud
+
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud Vision API](https://img.shields.io/badge/Google_Cloud_Vision_API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ### Tools
 
@@ -46,6 +53,7 @@
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ## 🚀 Project
+
 
 ## 📚 BillBook
 
@@ -59,6 +67,22 @@
 
 [![GitHub Repository](https://img.shields.io/badge/BillBook-Repository-181717?style=for-the-badge&logo=github)](https://github.com/BillBook-2025/billbook-backend)
 
+
+### 오늘도 썩는 중
+
+냉장고 속 식재료를 체계적으로 관리하고 맞춤형 레시피를 추천하는 식재료 관리 서비스입니다.
+
+- 냉장고 식재료 등록, 수정, 삭제 및 소비기한 관리 기능 구현
+- 영수증과 식재료 이미지를 분석해 식재료를 자동으로 인식하는 기능 구현
+- 보유 식재료를 기반으로 조리 가능한 레시피 추천 및 상세 조리법 제공
+- 사용자의 알레르기 정보와 음식 선호도를 반영한 맞춤형 레시피 추천
+- 레시피 좋아요·싫어요, 조리 기록 및 즐겨찾기 관리 기능 구현
+- Google OAuth와 JWT를 활용한 소셜 로그인 및 사용자 인증 구현
+- AWS S3를 활용한 이미지 저장 기능 구현
+
+[![GitHub Repository](https://img.shields.io/badge/오늘도_썩는_중-Repository-181717?style=for-the-badge&logo=github)](https://github.com/HICC-2025-1-PC-TEAM5/backend)
+
+
 ### Ganadi (가나디)
 
 소비 기록과 캐릭터 성장을 결합한 가계부 서비스입니다.
@@ -70,6 +94,8 @@
 - Service Worker와 `vite-plugin-pwa`를 적용해 설치 가능한 PWA로 구성 및 배포
 
 [![GitHub Repository](https://img.shields.io/badge/Ganadi-Repository-181717?style=for-the-badge&logo=github)](https://github.com/20260304-KB7-27/Ganadi)
+
+
 
 
 
