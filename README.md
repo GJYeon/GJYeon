@@ -104,4 +104,3 @@
 
 [![GitHub Repository](https://img.shields.io/badge/Ganadi-Repository-181717?style=for-the-badge&logo=github)](https://github.com/20260304-KB7-27/Ganadi)
 
-[![GJYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GJYeon)](https://github.com/anuraghazra/github-readme-stats)
