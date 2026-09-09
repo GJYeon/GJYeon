@@ -1,6 +1,6 @@
 # CHO JUN YEON 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwnsdus11)](https://solved.ac/whwnsdus11/)
+데이터 흐름과 서비스 안정성을 고민하는 Backend Developer
 
 ## 💪 Skills
 
