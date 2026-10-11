@@ -13,7 +13,7 @@ Java와 Spring을 중심으로 서비스를 개발합니다.
 
 ## Projects
 
-### [탕탕](https://github.com/KB-TangTang) · 챌린지형 자산관리 서비스
+### [탕탕](https://github.com/GJYeon/TangTang-Monorepo) · 챌린지형 자산관리 서비스
 
 거래내역을 자동 분류하고 소비 관리 챌린지로 연결하는 서비스입니다. 자산현황 화면·API와 거래내역 동기화·분류를 담당했습니다.
 
@@ -23,7 +23,7 @@ Java와 Spring을 중심으로 서비스를 개발합니다.
 
 `Java` `Spring MVC` `MyBatis` `MySQL` `Vue 3`
 
-### [BillBook](https://github.com/BillBook-2025/billbook-backend) · 지역 기반 도서 대여 서비스
+### [BillBook](https://github.com/GJYeon/BillBook) · 지역 기반 도서 대여 서비스
 
 책을 등록하고 실시간 채팅으로 대여를 조율하는 서비스입니다. 3인 팀에서 커뮤니티를 제외한 백엔드와 EC2·S3 구성을 담당했습니다.
 
